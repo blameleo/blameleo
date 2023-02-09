@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @blameleo
 - 👀 I’m interested in front-end development
-- 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me email-leonardgre@gmail.com and twitter-Blame_leo
 
